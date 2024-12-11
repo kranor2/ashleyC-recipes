@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Emilys Candy", serif;
+}
+
+a {
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 50px;
+    background-color: lavender;
+    color: purple;
+    margin: 10px;
+    font-family: "Delius Swash Caps", sans-serif;
+}
